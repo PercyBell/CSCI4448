@@ -17,3 +17,7 @@ Percy Bell (albe8015@colorado.edu)
 --- About HW#3 Code ---
 - Group: me
 - Information on running: Same as with HW#2P#6
+
+--- About HW#6 Zip ---
+- Group: me
+- The zip contains all of the unity code needed to run the project. It should be runnable from the unity editor (I am using 2018.3.5f1). It can also be built from the unity editor. I tried to upload an executable but it was too large for github to let me. Also it should be noted that the quit button in the game over menu has no functionality because apparently changing that made the zip go from 18MB to 80MB and github couldn't handle that. 
